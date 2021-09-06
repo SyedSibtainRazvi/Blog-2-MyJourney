@@ -124,9 +124,14 @@ h3 {
         flex-direction: column;
     }
     .image-container>img {
-        width: 50vw;
+        width: 60vw;
         height: auto;
         margin: 1rem auto;
+    }
+    .container {
+        width: 90vw;
+        height: auto;
+        
     }
     
 }
